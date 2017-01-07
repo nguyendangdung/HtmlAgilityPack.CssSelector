@@ -1,4 +1,4 @@
-HtmlAgilityPack CSS Selector
+HtmlAgilityPack CSS Selectorb for NET 4.0
 =======
 
 HAP-CSS is a .NET Extension Method for HtmlAgilityPack HtmlDocument and HtmlNode classes.
